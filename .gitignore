@@ -1,0 +1,15 @@
+.nogit
+
+# SQL Server Express local database artifacts
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.sqlaudit
+*.log
+
+# Local SQL Server project user settings
+*.suo
+*.user
+*.dbmdl
