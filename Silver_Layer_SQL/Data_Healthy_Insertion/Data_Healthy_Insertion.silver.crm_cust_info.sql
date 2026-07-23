@@ -1,6 +1,6 @@
 /*
 	Insert with healthier data with rerun checks.
-	TABLE: bronze.crm_cust_info
+	TABLE: silver.crm_cust_info
 */
 ------ Just to check column order and name
 SELECT TOP 100 * FROM silver.crm_cust_info
